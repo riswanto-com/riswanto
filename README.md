@@ -3,7 +3,7 @@
 ```dart
 class AboutMe {
   static const List<String> language = ['PHP', 'HTML', 'CSS', 'Javascript', 'Java'];
-  static const List<String> framework = ['CodeIgniter', 'Laravel', 'SpringBoot', 'React'];
+  static const List<String> framework = ['CodeIgniter', 'Laravel', 'SpringBoot', 'React','Nuxt'];
   static const List<String> design = ['Figma', 'Adobe Photoshop'];
 }
 ```
